@@ -64,6 +64,8 @@ This project helped me explore:
 -  Responsive design for mobile/tablet/desktop
 
 ---
+## ⚠️ Disclaimer
+This project was built for personal learning and portfolio purposes only. It is not affiliated with or endorsed by TMDB. All movie data is sourced from TMDB via their public API.
 
 ## ⚡ Getting Started
 
