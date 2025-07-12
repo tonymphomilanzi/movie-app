@@ -1,4 +1,4 @@
-const API_KEY = `${API_KEY}`; // replace this with your actual TMDb key
+const API_KEY = "b9c074ed81f6d791eb1b1a63a5ad4efa"; // replace this with your actual TMDb key
 const BASE_URL = 'https://api.themoviedb.org/3';
 
 export const fetchMovies = async (category = 'trending', page = 1) => {
