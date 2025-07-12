@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <a href="" target="_blank">
- <img src="https://raw.githubusercontent.com/tonymphomilanzi/movie-app/main/assets/banner.jpg alt="Movie App Banner" />
+ <img src="https://github.com/tonymphomilanzi/movie-app/issues/1#issue-3225241390/>
 
   </a>
   <br />
