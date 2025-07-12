@@ -41,7 +41,10 @@ This project helped me explore:
 | Hero Banner + Search | Movie Grid + Genres | SideBar | Mobile View |
 
 |----------------------|---------------------|----------------|
-| ![Hero](screenshots/MOVIE_3.jpg) | ![Grid](screenshots/MOVIE_1.jpg) | ![SideBar](screenshots/MOVIE_3.jpg) |![Mobile](screenshots/MOVIE_2.jpg)
+| <img src="https://github.com/user-attachments/assets/42e3b992-bb2c-43e7-a4a8-c0dd54480967" /> | ![Grid](screenshots/MOVIE_1.jpg) | ![SideBar](screenshots/MOVIE_3.jpg) |![Mobile](screenshots/MOVIE_2.jpg)
+
+
+
 
 ---
 
