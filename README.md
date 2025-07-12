@@ -40,6 +40,7 @@ This project helped me explore:
 ## 🖼️ Screenshots
 
 | Hero Banner + Search | Movie Grid + Genres | SideBar | Mobile View |
+
 |----------------------|---------------------|----------------|
 | ![Hero](screenshots/MOVIE_3.jpg) | ![Grid](screenshots/MOVIE_1.jpg) | ![SideBar](screenshots/MOVIE_3.jpg) |![Mobile](screenshots/MOVIE_2.jpg)
 
