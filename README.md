@@ -39,9 +39,8 @@ This project helped me explore:
 ## 🖼️ Screenshots
  <img src="https://github.com/user-attachments/assets/42e3b992-bb2c-43e7-a4a8-c0dd54480967" />
  <img src="https://github.com/user-attachments/assets/4bb34ebe-fdc0-42a1-999f-58e6c7918787" />
-
-
-
+ <img src="https://github.com/user-attachments/assets/1ab9ba13-4846-4534-907d-0dfa3d17a525" />
+ 
 ---
 
 ## 🛠 Tech Stack
