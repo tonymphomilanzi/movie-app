@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <a href="" target="_blank"
+  <a href="" target="_blank">
   <img src="https://github.com/user-attachments/assets/5618142e-5002-4b0d-89dd-192b1f6d7e5a" alt="Movie App Banner" />
   </a>
   <br />
