@@ -1,10 +1,10 @@
 <div align="center">
   <br />
-  <a href="" target="_blank  <img src="https://github.com/user-attachments/assets/37453fb7-b528-411f-a95d-7552cd6e7797" alt="Movie App Banner" />
+  <a href="" target="_blank  <img src="(https://github.com/user-attachments/assets/5618142e-5002-4b0d-89dd-192b1f6d7e5a)" alt="Movie App Banner" />
 
   </a>
   <br />
-![Image](https://github.com/user-attachments/assets/5618142e-5002-4b0d-89dd-192b1f6d7e5a)
+
   <div>
     <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
